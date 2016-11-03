@@ -3,210 +3,237 @@
 
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-appcompat-v7-0.4.0_f14f08dd90838f44e2f4499d9d544186bcd36331/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_685be5b82fa3851798175b02b6ab6e537d08b900/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_d5b503f364cedc359109f113a8bc0bd53009f599/classes.dex" />
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_f2deb62f12b3c48ec690c207b617149316b33329/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b0b7b17f22f3f97bff47aad920cd0cc6d57f74ec">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c7a03d31d81124ce93ceb789044807125c9356d4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_214e8ec728c48d34439d7e453e38a5d418c20bee/classes.dex" />
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_bb7bac4fb83013c880f072eb2e2f7108365983de/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/hanhmai1203/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.1/4e4cfa4adc74521d5966799fa5ab70b733552f68/rxjava-1.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_929b212c156b093db9be70d5dc5b2eac1c8418bd/classes.dex" />
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.1_d8809d1cc4539227ceae4b417da345dc90b6073d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_cab1fe90480d03fb9f6599a121a8b2206653cc6a/classes.dex" />
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_fe80d2254698a0880533b7045793c9bc91b14f89/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="5bf44618c1649e67e30ef154bd482c4afaa697a1">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4acc57272932272790fd6d3f0d0da8f40ef2a171/classes.dex" />
+        sha1="44704180376238a3a3d3177c748925cfe61fa181">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_35fcfbd7eed7cb46b2f1406f5c367185ef23051d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8faf149c2c3749dd2e693d24c21cda178875e537/classes.dex" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_9426d3d7f86306ba3e5fb5c5712e4acb9335d744/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_284f75b6d93a9e56b803329ceeaad6e341542353/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_73e57ddfe94d5c41cf3ae02dd6912728eb3b5828/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_df5a83af4e278adb062e5cbaec0a156006ddab34/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0ff2db1b07840b68850a576edd91d2ba76fb78a5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_91037b4fa43db428d708d9a020fdfe41db678f79/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_542cf7b3ea255fdb147a421a973f4f6ab539c027/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.0_d173bd0e7f75cf61bdf8c4fdcf8ea3e475da6916/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_c2f72985c9caaebf66622fe37902cb98207a791e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_102703dc13eaba587fa4cf48631a1ea3b07160e9/classes.dex" />
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8ff898aa8fb4f25951657f67439b09c1ffc96219/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d3406f4c253be735dd3e06a3719dcdc677e3b521/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_85cb2e9bab7bf5f4f1f2e6745eeff4ab37bb6426/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_19a71160c65af0e1efad33be70968da4a17283d5/classes.dex" />
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3686300e0402e0fefbcb28c207a7750cbc825b07/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_824299e815d0641d6c0926961a5fd1ee33e75f20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_eecc85bc1b034f6ecc8d9af4ec242eea1d1e4082/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dfba6e239c856efdad168d08e405c2b4659bf397">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_efc3cffbf4acd29ed4844bdb1fc048a4693d4d3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_316cfc280101c72d046bd0d038318956a426e162/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_11b9787068b3b38ea302b34cfb480ac6ab092dd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-appcompat-v7-0.4.0_29d84aa9bdd8d82ff86448a845c67c1f1a8d955b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_84a8f3b8a0beb4d334ccd0b01e70f75843507437/classes.dex" />
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_d9a76ebf6e5aae162e8e19660300074afc4f0b48/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_381c949629125690845cac31dc5da5e0c4b2eda8/classes.dex" />
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_595289d279959162b34f93d1a4e94933e00c0dec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_b75bf2ed421f969a5971883c790e36000b60ecfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_084f14a2c5d083a86a467a6c25718e3345ee0380/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_1275674fc5a9b0374c79b70a45182293715d138f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fbfb6d736b080dd25a204faba5191325ce364c21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_634c5ede41df82e9bdb0163a638d4894a474b43a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ddb01323d48bccdb437d0cab6ce7a7297ff3fbcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_0f1bd72f6d19779adeec522721a00d9e7bfe5d25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_947ab9c11cbb621a72dc7a3b04ba0dbca210f8ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_61e7e73571b3e1a185c10b115fdf3582d2adb098/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_4a451b2675afc9f62d28c97c8344d76107afe339/classes.dex" />
     </item>
 
 </items>

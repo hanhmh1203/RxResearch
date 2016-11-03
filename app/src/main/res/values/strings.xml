@@ -13,4 +13,13 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="title_activity_nytimes">nytimes</string>
+    <string name="title_activity_book">BookActivity</string>
+    <array name="book_api">
+        <item>lists</item>
+        <item>best sellers</item>
+        <item>lists name</item>
+        <item>lists overview</item>
+        <item>reviews</item>
+    </array>
 </resources>
