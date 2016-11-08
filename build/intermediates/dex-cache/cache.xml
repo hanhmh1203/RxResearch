@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="83b2134a05638f8a008691b7032c2ed88c1ea4ea">
+        sha1="a9fffb2bd5dd303df237a61e8ce85e7a87e2af1d">
         <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_35fcfbd7eed7cb46b2f1406f5c367185ef23051d/classes.dex" />
     </item>
     <item
@@ -57,48 +57,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_9426d3d7f86306ba3e5fb5c5712e4acb9335d744/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/hanhmai1203/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
         <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_fb9ac5b5fbe9d20bb04bcfdc63e943b7fcb61157/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8ff898aa8fb4f25951657f67439b09c1ffc96219/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3686300e0402e0fefbcb28c207a7750cbc825b07/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
-        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_824299e815d0641d6c0926961a5fd1ee33e75f20/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -115,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="42c672047a9777f80d253c51bf4621c3ece4627d">
+        sha1="8bc81311e328dd4486ba778fd8a0949127330948">
         <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_efc3cffbf4acd29ed4844bdb1fc048a4693d4d3c/classes.dex" />
     </item>
     <item
@@ -147,6 +111,96 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-appcompat-v7-0.4.0_29d84aa9bdd8d82ff86448a845c67c1f1a8d955b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_1275674fc5a9b0374c79b70a45182293715d138f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fbfb6d736b080dd25a204faba5191325ce364c21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ddb01323d48bccdb437d0cab6ce7a7297ff3fbcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_04946c67f3390ccf8f483e5eb509a1d77d41365a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_61e7e73571b3e1a185c10b115fdf3582d2adb098/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_9426d3d7f86306ba3e5fb5c5712e4acb9335d744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8ff898aa8fb4f25951657f67439b09c1ffc96219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3686300e0402e0fefbcb28c207a7750cbc825b07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_824299e815d0641d6c0926961a5fd1ee33e75f20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/hanhmai1203/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
         jumboMode="true"
         optimize="true"
@@ -162,15 +216,6 @@
         revision="24.0.1"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
         <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_d9a76ebf6e5aae162e8e19660300074afc4f0b48/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
-        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-appcompat-v7-0.4.0_29d84aa9bdd8d82ff86448a845c67c1f1a8d955b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -210,39 +255,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hanhmai1203/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_1275674fc5a9b0374c79b70a45182293715d138f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fbfb6d736b080dd25a204faba5191325ce364c21/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
         <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_634c5ede41df82e9bdb0163a638d4894a474b43a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ddb01323d48bccdb437d0cab6ce7a7297ff3fbcf/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -264,30 +282,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hanhmai1203/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
-        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_04946c67f3390ccf8f483e5eb509a1d77d41365a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
         <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_4a451b2675afc9f62d28c97c8344d76107afe339/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/hanhmai1203/Documents/Work/Android/Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_61e7e73571b3e1a185c10b115fdf3582d2adb098/classes.dex" />
     </item>
 
 </items>

@@ -44,7 +44,7 @@ public class Result {
     private List<Review> reviews = new ArrayList<Review>();
 
     /**
-     * 
+     *
      * @return
      *     The title
      */
@@ -53,7 +53,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param title
      *     The title
      */
@@ -62,7 +62,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @return
      *     The description
      */
@@ -71,7 +71,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param description
      *     The description
      */
@@ -80,7 +80,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @return
      *     The contributor
      */
@@ -89,7 +89,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param contributor
      *     The contributor
      */
@@ -98,7 +98,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @return
      *     The author
      */
@@ -107,7 +107,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param author
      *     The author
      */
@@ -116,7 +116,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @return
      *     The contributorNote
      */
@@ -125,7 +125,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param contributorNote
      *     The contributor_note
      */
@@ -134,7 +134,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @return
      *     The price
      */
@@ -143,7 +143,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param price
      *     The price
      */
@@ -152,7 +152,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @return
      *     The ageGroup
      */
@@ -161,7 +161,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param ageGroup
      *     The age_group
      */
@@ -170,7 +170,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @return
      *     The publisher
      */
@@ -179,7 +179,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param publisher
      *     The publisher
      */
@@ -188,7 +188,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @return
      *     The isbns
      */
@@ -197,7 +197,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param isbns
      *     The isbns
      */
@@ -206,7 +206,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @return
      *     The ranksHistory
      */
@@ -215,7 +215,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param ranksHistory
      *     The ranks_history
      */
@@ -224,7 +224,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @return
      *     The reviews
      */
@@ -233,7 +233,7 @@ public class Result {
     }
 
     /**
-     * 
+     *
      * @param reviews
      *     The reviews
      */

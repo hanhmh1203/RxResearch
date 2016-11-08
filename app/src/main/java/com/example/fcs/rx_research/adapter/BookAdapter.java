@@ -66,8 +66,6 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.CustomViewHold
 
         public CustomViewHolder(View view) {
             super(view);
-
-//            ButterKnife.bind(view);
             this.ivThumbnail = (ImageView) view.findViewById(R.id.thumbnail);
             this.tvTitle = (TextView) view.findViewById(R.id.title);
 
