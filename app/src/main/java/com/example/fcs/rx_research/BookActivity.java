@@ -37,7 +37,6 @@ public class BookActivity extends AppCompatActivity {
         recView = (RecyclerView) findViewById(R.id.recycler_view);
         recView.setLayoutManager(new LinearLayoutManager(this));
         setSupportActionBar(toolbar);
-
         initData();
     }
 
@@ -45,11 +44,20 @@ public class BookActivity extends AppCompatActivity {
         mArray = Arrays.asList(getResources().getStringArray(R.array.book_api));
         mAdapter = new BookAdapter(mArray, this);
         recView.setAdapter(mAdapter);
-        mAdapter.setOnItemClickListener(new BookAdapter.OnItemClickListener() {
-            @Override
-            public void onItemClick(int pos, String item) {
-                startActivity(new Intent(BookActivity.this, BestSeller.class));
+        mAdapter.setOnItemClickListener((pos, item) -> {
+            switch (pos) {
+                case 0: {
+                    startActivity(new Intent(BookActivity.this, BestSeller.class));
+                    break;
+                }
+                case 1: {
+//                    startActivity(new Intent(BookActivity.this, ExampleLocalActivity.class));
+                    break;
+                }
+                default:
+                    break;
             }
+
         });
     }
 }

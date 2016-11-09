@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="array 1" />
+
+    <EditText
+        android:id="@+id/edArrayInput1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="array 2" />
+
+    <EditText
+        android:id="@+id/edArrayInput2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change"
+        android:id="@+id/btn"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="publish subject" />
+
+    <EditText
+        android:id="@+id/edArrayOutputPublish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Replay subject" />
+
+    <EditText
+        android:id="@+id/edArrayOutputReplay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Behavior Subject" />
+
+    <EditText
+        android:id="@+id/edArrayOutputBehavior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>

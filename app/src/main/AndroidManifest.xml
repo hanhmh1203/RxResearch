@@ -26,6 +26,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".BestSeller"></activity>
+        <activity android:name=".ExampleLocalActivity"></activity>
     </application>
 
 </manifest>

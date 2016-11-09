@@ -14,19 +14,18 @@
             android:id="@+id/btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Filter" />
-
+            android:text="Refresh" />
+        <Button
+            android:id="@+id/btnClear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clear" />
         <CheckBox
             android:id="@+id/cbCheckNull"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Check null" />
 
-        <CheckBox
-            android:id="@+id/cbSort"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Sort" />
 
         <CheckBox
             android:id="@+id/cbEdit"

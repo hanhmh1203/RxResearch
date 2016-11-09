@@ -5,15 +5,12 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.fcs.rx_research.R;
-import com.example.fcs.rx_research.entity.Result;
+import com.example.fcs.rx_research.entity.history.Result;
 
 import java.util.List;
-
-import butterknife.BindView;
 
 /**
  * Created by hanhmai1203 on 11/7/16.

@@ -16,10 +16,10 @@
     <string name="title_activity_nytimes">nytimes</string>
     <string name="title_activity_book">BookActivity</string>
     <array name="book_api">
-        <item>lists</item>
-        <item>best sellers</item>
-        <item>lists name</item>
-        <item>lists overview</item>
-        <item>reviews</item>
+        <item>Call API</item>
+        <item>Subject</item>
+        <!--<item>lists name</item>-->
+        <!--<item>lists overview</item>-->
+        <!--<item>reviews</item>-->
     </array>
 </resources>
