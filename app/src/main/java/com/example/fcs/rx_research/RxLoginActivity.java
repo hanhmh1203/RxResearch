@@ -59,7 +59,7 @@ public class RxLoginActivity extends AppCompatActivity {
         Subscription subscriptionEmail = RxTextView.textChanges(edUserName)
 
 //                .debounce(20000, java.util.concurrent.TimeUnit.MICROSECONDS)
-                .subscribeOn(Schedulers.io())
+//                .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .filter(new Func1<CharSequence, Boolean>() {
                     @Override

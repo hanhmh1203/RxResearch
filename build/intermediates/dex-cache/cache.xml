@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_17535e477db2aaf075cd6b97697bb94bc115ced8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c9b3a5c9bed13158143ffd675ef3d57e5750a55a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -18,6 +36,15 @@
         revision="24.0.1"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
         <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_685be5b82fa3851798175b02b6ab6e537d08b900/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_48ca6fef601bcae52d2aad1e9f5c6cffcf73e586/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,12 +66,174 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_421ceb062c68730b9d3e784f53f372a0e6ad303f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
         <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_214e8ec728c48d34439d7e453e38a5d418c20bee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8a6ed1df717022d857ef261b495833b5262fd3d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_12e48393a822bacfc5d326eff14f7afa622f0d67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_91ec20c07e61f4a56009f4293535729336dc032b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5bf44618c1649e67e30ef154bd482c4afaa697a1">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4acc57272932272790fd6d3f0d0da8f40ef2a171/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_284f75b6d93a9e56b803329ceeaad6e341542353/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_26999628b0a4d042a1fe2a6d01cbc41a7f5da63d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_84f2b9172a5939a4e877045ca1be5c7560306080/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_df5a83af4e278adb062e5cbaec0a156006ddab34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0ff2db1b07840b68850a576edd91d2ba76fb78a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_bdda7bb2819e227e7728a2a6732832fb099aafb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_c2f72985c9caaebf66622fe37902cb98207a791e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_102703dc13eaba587fa4cf48631a1ea3b07160e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ff8e14c347feb7a5e1e1dc830ae9e1e976ab9bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d572523c9e0d0223f1467cd12aca6b77474cb174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_84a8f3b8a0beb4d334ccd0b01e70f75843507437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_59014e1d96ff489d55c93d2e617cecad59eb036e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-appcompat-v7-0.4.0_42f7766bf87d97941ac0b70f622da855da1b71c4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,15 +255,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="5bf44618c1649e67e30ef154bd482c4afaa697a1">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4acc57272932272790fd6d3f0d0da8f40ef2a171/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -84,12 +264,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_284f75b6d93a9e56b803329ceeaad6e341542353/classes.dex" />
+        sha1="b569c76644744b81eba81e4acd1b2a7e9f1fe0d3">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d74de0546043f29d12226a43b3c8f706e6b26178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_3a6274d09ab02fd1bac6bb94d499a76f36409af8/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,21 +291,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_df5a83af4e278adb062e5cbaec0a156006ddab34/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0ff2db1b07840b68850a576edd91d2ba76fb78a5/classes.dex" />
+        sha1="027d6ec0601af861e4b3b20765c218d76efed062">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21cbdec9470440717b8ed45b8ade05a9f368ded4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -147,21 +327,39 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_c2f72985c9caaebf66622fe37902cb98207a791e/classes.dex" />
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_4f5cf332d2298d6e9409167536ad4f9187a7029e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_3d056ec4b4ee1425e8a5b8cc83f739f1030ab979/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_cb5f0667fe314537a4ab87c1026da17d69a7b485/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_102703dc13eaba587fa4cf48631a1ea3b07160e9/classes.dex" />
+        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7a8ca4fc37d521085bc5d91ea06220f8b39f9d03/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -189,15 +387,6 @@
         revision="24.0.1"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
         <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_19a71160c65af0e1efad33be70968da4a17283d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/FCS/Documents/android trainning/code/rx_research/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_84a8f3b8a0beb4d334ccd0b01e70f75843507437/classes.dex" />
     </item>
     <item
         is-multidex="true"
